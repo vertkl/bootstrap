@@ -20,7 +20,7 @@ You will need a few things.
 
 To have launchd start nginx at login: 
 
-   ln -sfv /usr/local/opt/nginx/*.plist ~/Library/LaunchAgents 
+     ln -sfv /usr/local/opt/nginx/*.plist ~/Library/LaunchAgents 
 
 Then to load nginx now: 
 
